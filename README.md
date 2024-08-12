@@ -5,9 +5,9 @@
 ## 二.生成函数并拟合
 ### 1.生成函数
 如果需要生成带有噪声的函数请使用 [生成带噪声的函数并拟合.py](https://github.com/lbdslbds/Function-generation-and-fitting/blob/main/%E7%94%9F%E6%88%90%E5%B8%A6%E5%99%AA%E5%A3%B0%E7%9A%84%E5%87%BD%E6%95%B0%E5%B9%B6%E6%8B%9F%E5%90%88.py)  
-如果需要生成不带有噪声的函数请使用 [生成函数并拟合.py](https://github.com/lbdslbds/Function-generation-and-fitting/blob/main/%E7%94%9F%E6%88%90%E5%B8%A6%E5%99%AA%E5%A3%B0%E7%9A%84%E5%87%BD%E6%95%B0%E5%B9%B6%E6%8B%9F%E5%90%88.py)
+不想加入噪声请删除随机数
 ### 2.进行拟合
-如果需要更改拟合方式请自行取消代码中的注释
+选择拟合方式
 ### 3.还原度与残差
 评估拟合好坏的方法
 ### 4.保存数据
