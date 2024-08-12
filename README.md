@@ -13,3 +13,5 @@
 ### 4.保存数据
 更改63和69行代码的保存路径
 ## 三.根据生成的文件画出关系图
+使用[关系图.py](https://github.com/lbdslbds/Function-generation-and-fitting/blob/main/%E5%85%B3%E7%B3%BB%E5%9B%BE.py)画出采样数和还原程度的关系
+使用前修改26和74行的路径
